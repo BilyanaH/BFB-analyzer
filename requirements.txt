@@ -1,0 +1,9 @@
+anthropic
+dotenv
+pydantic
+pytest
+pandas
+requests
+py7zr
+chromadb
+sqlalchemy
